@@ -26,5 +26,16 @@
 ### Interactive Brewing Guide
 ![Brewing Guide](./Brewing%20Guide.png)
 
+### French Press Interactive Workflow (Guide, Grind, Timer & Ratio Calculator)
+![French Press Guide](./French%20Press-guide.png)
+![French Press Grind](./French%20Press-grind.png)
+![French Press Timer](./French%20Press-timer.png)
+![French Press Calculator](./French%20Press-calculator.png)
+
 ### Coffee Journal & Brew Log
 ![Coffee Journal](./Coffee%20Journal.png)
+
+### Specialty Coffee Storefront (Beans, Equipment & Merchandise)
+![Coffee Beans Store](./Coffee%20beans.png)
+![Brewing Equipment Store](./Equipments.png)
+![Merchandise Store](./Merchandise.png)
