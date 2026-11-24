@@ -5,6 +5,7 @@
 **Domain:** Specialty Coffee E-Commerce & Interactive Brewing Utility  
 
 🔗 **[View Live Interactive Figma Prototype](https://www.figma.com/design/En9wJaSmBlRrM9jtTVbUVG/Interactive-Coffee-Brewing-Guide?node-id=0-1&t=Rd0C7PxB9ANCoObc-1)**
+📄 **[View Full UI/UX Case Study (PDF)](./Naku-Coffee-Case-Study.pdf)**
 
 ---
 
